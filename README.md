@@ -22,8 +22,7 @@ As seguintes fontes foram utilizadas e inseridas no NotebookLM:
 
 https://www.promptingguide.ai/
 https://platform.openai.com/docs/guides/prompt-engineering
-https://arxiv.org/pdf/2201.11903.pdf
- (Chain-of-Thought Prompting)
+https://arxiv.org/pdf/2201.11903.pdf (Chain-of-Thought Prompting)
 https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 https://cloud.google.com/blog/products/ai-machine-learning/prompt-engineering-best-practices
 
